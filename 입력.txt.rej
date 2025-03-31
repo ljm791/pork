@@ -1,0 +1,10 @@
+diff a/입력.txt b/입력.txt	(rejected hunks)
+@@ -2,4 +2,5 @@
+ 2. 그림
+ 3. 표
+ 4. 차트
+-5. 수식
+\ No newline at end of file
++5. 글상자
++6. 멀티미디어
+\ No newline at end of file
